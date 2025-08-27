@@ -1,0 +1,15 @@
+/workspaces/Aplicando-los-pilares-de-la-POO/GestionUTS/obj/Debug/net8.0/GestionUTS.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Aplicando-los-pilares-de-la-POO/GestionUTS/obj/Debug/net8.0/GestionUTS.AssemblyInfoInputs.cache
+/workspaces/Aplicando-los-pilares-de-la-POO/GestionUTS/obj/Debug/net8.0/GestionUTS.AssemblyInfo.cs
+/workspaces/Aplicando-los-pilares-de-la-POO/GestionUTS/obj/Debug/net8.0/GestionUTS.csproj.CoreCompileInputs.cache
+/workspaces/Aplicando-los-pilares-de-la-POO/GestionUTS/obj/Debug/net8.0/GestionUTS.sourcelink.json
+/workspaces/Aplicando-los-pilares-de-la-POO/GestionUTS/bin/Debug/net8.0/GestionUTS
+/workspaces/Aplicando-los-pilares-de-la-POO/GestionUTS/bin/Debug/net8.0/GestionUTS.deps.json
+/workspaces/Aplicando-los-pilares-de-la-POO/GestionUTS/bin/Debug/net8.0/GestionUTS.runtimeconfig.json
+/workspaces/Aplicando-los-pilares-de-la-POO/GestionUTS/bin/Debug/net8.0/GestionUTS.dll
+/workspaces/Aplicando-los-pilares-de-la-POO/GestionUTS/bin/Debug/net8.0/GestionUTS.pdb
+/workspaces/Aplicando-los-pilares-de-la-POO/GestionUTS/obj/Debug/net8.0/GestionUTS.dll
+/workspaces/Aplicando-los-pilares-de-la-POO/GestionUTS/obj/Debug/net8.0/refint/GestionUTS.dll
+/workspaces/Aplicando-los-pilares-de-la-POO/GestionUTS/obj/Debug/net8.0/GestionUTS.pdb
+/workspaces/Aplicando-los-pilares-de-la-POO/GestionUTS/obj/Debug/net8.0/GestionUTS.genruntimeconfig.cache
+/workspaces/Aplicando-los-pilares-de-la-POO/GestionUTS/obj/Debug/net8.0/ref/GestionUTS.dll
